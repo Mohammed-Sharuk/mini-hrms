@@ -1,8 +1,8 @@
-👨‍💼 Mini HRMS (Employee Management System)
+#👨‍💼 Mini HRMS (Employee Management System)
 
 A simple and effective Employee Management System built with React. This app allows you to manage employee data with ease — including adding, editing, and filtering employees — while maintaining a clean and user-friendly interface.
 
-✨ Features
+##✨ Features
 
 ➕ Add Employees – Quickly add new employee details.
 
@@ -16,7 +16,7 @@ A simple and effective Employee Management System built with React. This app all
 
 ⚡ Reusable Components – Components are designed to be modular and scalable.
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Frontend: React (with Hooks & React Router)
 
@@ -26,7 +26,7 @@ State Management: React’s useState & useEffect
 
 Other Tools: Fetch API (for data simulation)
 
-🚀 Future Enhancements
+##🚀 Future Enhancements
 
 The Mini HRMS app can grow into a more complete system over time. Some exciting improvements we plan to add:
 
@@ -42,7 +42,7 @@ Employee Detail Page → Allow users to click on an employee to view their compl
 
 UI/UX Improvements → Ensure a neat, user-friendly, and fully responsive layout across all devices.
 
-▶️ Getting Started
+##▶️ Getting Started
 
 Follow these steps to run the project locally:
 
